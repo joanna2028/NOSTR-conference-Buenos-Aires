@@ -2,7 +2,7 @@
 
 # NOSTRAIRES 2025 - Nostr.World Unconference 4th Edition
 
-Time: November 20-21 Location: Buenos Aires, Argentina
+Time: November 3-4 Location: Buenos Aires, Argentina
 
 https://nostr.world
 
